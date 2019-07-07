@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     instagram: "https://instagram.com/langston_alimayu",
     bandcamp: "https://langle.bandcamp.com",
-    email: "ezra.rr.davis@gmail.com",
+    email: "Langston.A.Davis@gmail.com",
   },
   plugins: [
     "gatsby-transformer-remark",
